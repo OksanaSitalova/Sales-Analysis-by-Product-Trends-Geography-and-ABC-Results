@@ -13,6 +13,8 @@ This project is a comprehensive **sales data analysis** implemented both in **Go
 | `products.csv` | Product categories (name, ID) |
 
 **Google Sheets (initial data exploration)**:  
+
+![Dashboard](Dashboard_P_GS.png)
 [🔗 View Sheet](https://docs.google.com/spreadsheets/d/1Cvdxp6J860tB9z5PiBoqbcMVMTQd_hOG4qgKuPvaf3g/edit?usp=sharing)
 
 ---
